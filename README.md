@@ -4,9 +4,12 @@
 
 ## Demo & Download 
 
+
 ## Bugs Reports
 
+
 Have a bug or a feature request? Please open a new issue.
+
 
 ## Copyright and license
 
