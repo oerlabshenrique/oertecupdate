@@ -10,5 +10,5 @@ Have a bug or a feature request? Please open a new issue.
 
 ## Copyright and license
 
-Copyright 2024 https://www.oertecnologia.com.br/, <a target="_blank" href="https://www.oertecnologia.com.br/"></a>
+Copyright 2024 https://www.oertecnologia.com.br/ <a target="_blank" href="https://www.oertecnologia.com.br/"></a>
 
