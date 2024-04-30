@@ -223,7 +223,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .team-member .team-details {
-    background-color: rgba(40, 171, 227, 0.8);
+    background-color: #4a3292;
 }
 
 .counter-item i {
@@ -282,7 +282,7 @@ footer.style-1 .footer-social li a {
 }
 
 .footer-contact-info {
-    background: rgba(40, 171, 227, 0.8);
+    background: #4a3292;
 }
 
 footer.style-1 {
@@ -294,7 +294,7 @@ footer.style-1 {
 }
 
 .latest-post .post-details .date {
-    background: rgba(40, 171, 227, 0.8);
+    background: #4a3292;
 }
 
 .custom-tab .nav-tabs.nav-justified {
