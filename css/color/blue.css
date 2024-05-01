@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
     color: #4a3292;
 }
 .portfolio-item:hover .portfolio-caption {
-    background-color: rgba(40, 171, 227, 0.8);
+    background-color: #4a3292;
 }
 
 .welcome-section:hover .border {
